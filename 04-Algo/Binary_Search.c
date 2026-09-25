@@ -1,4 +1,4 @@
-//Binary search Algorithm in C
+//Binary Search Algorithm in C
 #include <stdio.h>
 
 int binarySearch(int arr[], int low, int high, int target) {
